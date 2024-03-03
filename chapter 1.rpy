@@ -14,21 +14,21 @@ label chapter1:
 
     nvl clear
 
-    "Obloha se během několika chvil zbarvila do tmavě šeda"
+    "Obloha se během několika chvil zbarvila do tmavě šeda."
 
     nvl clear
 
-    "Vypadalo to jako kdyby samotné nebe brečelo"
+    "Vypadalo to, jako kdyby samotné nebe brečelo."
 
     nvl clear
 
-    "Proč brečí?"
+    "Pročpak brečí?"
 
     "Co ho tak rozesmutnilo?"
 
     nvl clear
 
-    "Říkala jsem si když jsem procházela kolem silnice."
+    "Říkala jsem si, když jsem procházela kolem silnice."
 
     nvl clear
 
@@ -62,7 +62,7 @@ label chapter1:
 
     "Chtěla bych ho najít."
 
-    "Chtěla bych vědět jaký ten sen byl!"
+    "Chtěla bych vědět, jaký ten sen byl!"
 
     "Proč si ho sakra nepamatuju..."
 
@@ -76,11 +76,11 @@ label chapter1:
 
     nvl clear
 
-    "Mám nějaký oblečení co si ani nepamatuju, že bych si oblíkala."
+    "Mám nějaký oblečení, co si ani nepamatuju, že bych si oblíkala."
 
-    "Oblíkala jsem si to vůbec já?"
+    "Oblíkala jsem si ho vůbec já?"
 
-    "Kdo mi to oblíkal?"
+    "Kdo mi ho oblíkal?"
 
     nvl clear
 
@@ -90,13 +90,13 @@ label chapter1:
 
     "Dál a dál a dál."
 
-    "Stále dál než najdu svůj ztracený sen."
+    "Stále dál, než najdu svůj ztracený sen."
 
     nvl clear
 
     scene black with fade
     
-    show text "Toto je příběh poltergeista co byl vytvořen mentálně nestabilní dívkou. Příběh o dívce jménem Kana Anaberal, co ztratila své sny."
+    show text "Toto je příběh poltergeista, co byl vytvořen mentálně nestabilní dívkou. Příběh o dívce jménem Kana Anaberal, co ztratila své sny."
 
     pause 10
 
@@ -140,13 +140,13 @@ label chapter1:
 
     scene bg pole
 
-    "Stále se snažila vzpomenout na to co musí udělat."
+    "Stále se snažila vzpomenout na to, co musí udělat."
 
     "Fakt ale nevěděla."
 
     nvl clear
 
-    "Najednou si uvědomila. Že tady vlastně nikdy nebyla."
+    "Najednou si uvědomila, že tady vlastně nikdy nebyla."
 
     nvl clear
 
@@ -156,7 +156,7 @@ label chapter1:
 
     "Ale široko daleko, nikde nic."
 
-    "Bylo to jako kdyby se ocitla na konci světa. Je tohle snad to, čemu lidi říkají posmrtný život?"
+    "Bylo to, jako kdyby se ocitla na konci světa. Je tohle snad to, čemu lidi říkají posmrtný život?"
 
     "Kana ale odmítala věřit tomu, že umřela, tak se rozhodla jít dál."
 
@@ -166,11 +166,11 @@ label chapter1:
 
     "Její mysl byla stále zatemněná."
 
-    "Jediný na co si uměla vzpomenout je na to, že zapomněla na něco hodně důležitého."
+    "Jediný, na co si uměla vzpomenout, je na to, že zapomněla na něco hodně důležitého."
 
     "Sen. Vím, že jsem měla pěkný sen. Říkala si Kana."
 
-    "Ale nevím o čem ten sen vůbec byl."
+    "Ale nevím, o čem ten sen vůbec byl."
 
     "Byl ten sen vůbec hezkej? Říkala si."
 
@@ -184,11 +184,11 @@ label chapter1:
 
     "Ale kdo?"
 
-    "Široko daleko přece nikdo není"
+    "Široko daleko přece nikdo není."
 
     nvl clear
 
-    "Kana se snažila ohlédnout okolo sebe"
+    "Kana se snažila ohlédnout okolo sebe."
 
     "Ale nikoho neviděla."
 
@@ -230,7 +230,7 @@ label chapter1:
 
     nvl clear
 
-    "Je to divné. Furt jde podél silnice, ale si nevšimla, že by projelo byť jediné auto."
+    "Je to divné. Furt jde podél silnice, ale nevšimla si, že by projelo byť jediné auto."
 
     "Čím to asi je? Neví."
 
@@ -240,7 +240,7 @@ label chapter1:
 
     stop music fadeout(2.0)
 
-    "Něco co mi pomůže pomoci si vzpomenout na můj ztracený sen."
+    "Něco, co mi pomůže pomoci si vzpomenout na můj ztracený sen."
 
     nvl clear
 
@@ -248,7 +248,7 @@ label chapter1:
 
     scene bg stop
 
-    "Déšť ustal, obloha se rozjasnila, Kana došla na konec cesty, dál už cesta nevede, je tu pouze značka stop."
+    "Déšť ustal, obloha se rozjasnila. Kana došla na konec cesty, dál už cesta nevede, je tu pouze značka stop."
 
     "Za ní už je prázdnota, samé pole, žádná zábava."
 
@@ -260,23 +260,23 @@ label chapter1:
 
     nvl clear
 
-    "„Heh heh, tohle nemůže být konec mé cesty...“ řekla a začala koukat do té dopravní značky která před ní jen tak hnusně stála a nic neříkala, nehýbala se prostě nic!"
+    "„Heh heh, tohle nemůže být konec mé cesty...“ řekla a začala koukat na tu dopravní značku, která před ní jen tak hnusně stála a nic neříkala, nehýbala se, prostě nic!"
 
     "Jen tak tam stála a koukala někam do pryč!"
 
     "To je ale blbá, ničím zajímavá značka."
 
-    "Šla jsem sem takovou cestu abych pouze koukala na tuhle stupidní značku! Říkala si v duchu Kana."
+    "Šla jsem sem takovou cestu, abych pouze koukala na tuhle stupidní značku?! Říkala si v duchu Kana."
 
-    "Proč vůbec existuje když semnou nemluví?"
+    "Proč vůbec existuje, když semnou nemluví?"
 
     nvl clear
 
-    "Proč"
+    "Proč."
 
-    "Proč"
+    "Proč."
 
-    "Proč"
+    "Proč?"
 
     "Proč!?"
 
@@ -288,17 +288,17 @@ label chapter1:
 
     "Tak moc jí ta značka štvala, že do ní vší silou praštila."
 
-    "Kana cítila jak její ruce prošli tou hnusnou značnou a nic to té značce neudělalo."
+    "Kana cítila, jak její ruce prošly tou hnusnou značnou a nic to té značce neudělalo."
 
     nvl clear
 
-    "„Co? Proč, proč proč proč proč se tě nemůžu ani dotknout???  Co to sakra semnou je? Co jsem zač?“"
+    "„Co? Proč, proč proč proč proč se tě nemůžu ani dotknout??? Co to sakra se mnou je? Co jsem zač?“"
 
     nvl clear
 
     "Najednou si začínala uvědomovat, že možná není ani člověk."
 
-    "Z toho veškerého šoku, se zhroutila."
+    "Z toho veškerého šoku se zhroutila."
 
     "Spadla na zem a začala brečet."
 
@@ -306,7 +306,7 @@ label chapter1:
 
     "I kdyby jo, tak si to vůbec nepamatuje."
 
-    "Co to sakra je. Proč. proč. proč. proč proč."
+    "Co to sakra je. Proč, proč, proč... proč proč?"
 
     "Opakovala si furt Kana."
 
@@ -316,7 +316,7 @@ label chapter1:
 
     nvl clear
 
-    "Co teď ale? Chce tu značku tak strašně moc praštit, ale nemůže se té značky ani dotknout."
+    "Co teď ale? Chce tu značku tak strašně moc praštit, ale nemůže se jí ani dotknout."
 
     "Jejímu tělu není dovoleno interagovat se světem."
 
@@ -328,7 +328,7 @@ label chapter1:
 
     "Jenže to jí hned přešlo, když zjistila že i kdyby chtěla, tak nemůže, protože nemůže nic zvednout, s ničím hýbat, nic..."
 
-    "Jediný s čím může interagovat je oblečení co má na sobě."
+    "Jediné, s čím může interagovat, je oblečení, co má na sobě."
 
     "Nejspíš z toho důvodu, že je to součást jí samotné, ale těžko říct."
 
@@ -350,22 +350,22 @@ label chapter1:
 
     "A když se otočila, tak viděla to samé."
 
-    "Existují na tomto světě vůbec takovéto velké pole? Říkala si."
+    "Existují na tomto světě vůbec takováto velká pole? Říkala si."
 
-    "Šla dál, dál a dál a ještě mnohem dál, ale už, už, už nemohla, už se jí začali zavírat oči."
+    "Šla dál, dál a dál a ještě mnohem dál, ale už, už, už nemohla, už se jí začaly zavírat oči."
 
     nvl clear
     scene bg pole:
         blur 2
 
-    "„Proč tohle muselo potkat zrovna mě...“ říkala si Kana mezitím co se trmácela furt dopředu."
+    "„Proč tohle muselo potkat zrovna mě...“ říkala si Kana mezitím, co se trmácela furt dopředu."
 
     scene bg pole:
         blur 6
     
     nvl clear
 
-    "Trmácela se furt před, a před. Dopředu a dopředu. Co je za tím polem? Je tam něco?"
+    "Trmácela se furt vpřed, a vpřed. Dopředu a dopředu. Co je za tím polem? Je tam něco?"
 
     scene bg pole:
         blur 10
@@ -375,13 +375,13 @@ label chapter1:
     scene bg pole:
         blur 20
 
-    "Všechno najednou začala vidět hodně rozmazaně, hodně hodně rozmazaně."
+    "Všechno najednou začala vidět hodně rozmazaně, hodně, hodně rozmazaně."
 
     scene black with Fade(1, 0.0, 1)
 
     "Okolí se začalo zbarvovat do černa."
 
-    "Už nemohla. Spadla na zem. Musela si odpočinou."
+    "Už nemohla. Spadla na zem. Musela si odpočinout."
 
     "Najednou se její pohled ztmavil do černa."
 
@@ -407,25 +407,25 @@ label chapter1:
 
     scene white
 
-    "Někdo v tom světle stál, kdo by to mohl být. Byla to nějaká dívka, nebylo jí vidět do obličeje."
+    "Někdo v tom světle stál. Kdo by to mohl být? Byla to nějaká dívka, nebylo jí vidět do obličeje."
 
-    "V tom hodně jasným světle byla vidět jenom její silueta. Vypadalo to, že je menší jak ona, ale stála tak daleko, že to byla nejspíš jenom Kaninina domněnka."
+    "V tom hodně jasným světle byla vidět jenom její silueta. Vypadalo to, že je menší jak ona, ale stála tak daleko, že to byla nejspíš jenom Kanina domněnka."
 
     "To světlo bylo silný. Oslňovalo a nešlo přes něj vidět."
 
-    "Kana si musela zakrýt oči aby jí to nevypálilo zorničky a šla dál, šla dál k té dívce, snažila se jí se dotknout ale pak, pak zjistila že nemůže."
+    "Kana si musela zakrýt oči, aby jí to nevypálilo zorničky a šla dál, šla dál k té dívce, snažila se jí se dotknout ale pak, pak zjistila, že nemůže."
 
     "Teďka nemůže ani otevřít oči. Aby se na ní podívala a nemůže se jí ani dotknout, protože se nemůže dotýkat věcí."
     
     nvl clear
 
-    "„Je to smutný, hodně smutný, že jo? Musí to hodně bolet“ řekla ta dívka a pohladila Kanu po hlavě."
+    "„Je to smutný, hodně smutný, že jo? Musí to hodně bolet,“ řekla ta dívka a pohladila Kanu po hlavě."
 
     "Kana začala plakat. Byl to hodně pěkný hlas. Jako kdyby ho už někde slyšela, ale nemohla si vzpomenout kde."
 
     "„Na tady ti něco dám“ řekla a pohladila jí po hlavě a následně po rukách."
 
-    "„Je to dárek od mojí sestry, taky jí na tobě záleží“ řekla ta dívka."
+    "„Je to dárek od mojí sestry, taky jí na tobě záleží,“ řekla ta dívka."
 
     "„Sestry?“ zeptala se Kana."
 
@@ -435,7 +435,7 @@ label chapter1:
 
     nvl clear
 
-    "„Ty se mě můžeš dotknout? Jakto?“ řekla Kana mezitím co jí slzely oči."
+    "„Ty se mě můžeš dotknout? Jakto?“ řekla Kana mezitím, co jí slzely oči."
 
     nvl clear
 
@@ -465,29 +465,29 @@ label chapter1:
 
     scene bg witchhouse with fade
 
-    "„Tak už ses konečně probrala, už jsem si myslela, že se nikdy neprobereš“"
+    "„Tak už ses konečně probrala. Už jsem si myslela, že se nikdy neprobereš.“"
 
     nvl clear
 
-    "Kana se stále rozostřeným viděním se podívala po místnosti."
+    "Kana se se stále rozostřeným viděním podívala po místnosti."
 
-    "Všechno tady vypadalo hodně starožitně. Všechno bylo dřevěné, na stole byly dřevěné misky, lžíce, ten stůl byl dřevěný..."
+    "Všechno tady vypadalo hodně starožitně. Všechno bylo dřevěné, na stole byly dřevěné misky, lžíce, i stůl byl dřevěný..."
 
     "Všechno bylo dřevěný. Kdybych si řekla, že to tady podpálím, tak by to tu shořelo hodně rychle. Říkala si Kana."
 
     nvl clear
 
-    "„Pojď sem, pojď sem, jestli můžeš vstát přisedni si“ Řekla ona dívka, která je s Kanou ve stejné místnosti."
+    "„Pojď sem, pojď sem, jestli můžeš vstát, přisedni si,“ řekla ona dívka, která je s Kanou ve stejné místnosti."
 
     nvl clear
 
-    "Ta dívka se posadila opřela si hlavu o ruce které měla položené na stole a začala si hrát s kytičkou co měla před sebou"
+    "Ta dívka se posadila, opřela si hlavu o ruce, které měla položené na stole a začala si hrát s kytičkou, co měla před sebou."
 
-    "Kana stále s velmi rozostřeným viděním se teda rozhodla vstát."
+    "Kana se stále s velmi rozostřeným viděním teda rozhodla vstát."
 
     "Vstala a šla ke stolu, ale počkat?"
 
-    "Jak se posadí když nemůže interagovat s předměty?"
+    "Jak se posadí, když nemůže interagovat s předměty?"
 
     "Jak vůbec mohla ležet?"
 
@@ -495,45 +495,45 @@ label chapter1:
 
     nvl clear
 
-    "Je oblečená jako uklízečka. Ne taková ta normální, co potkáváte třeba při odchodu ze školy, ale taková ta nóbl, kterou byste potkali v nějakém panství."
+    "Je oblečená jako uklízečka. Ne taková ta normální, co potkáváte třeba při odchodu ze školy. Ale taková ta nóbl, kterou byste potkali v nějakém panství."
 
-    "Normálně se taková uniforma nosí v černé a bílé barvě, ale Kana to měla modrý a bílý."
+    "Normálně se taková uniforma nosí v černé a bílé barvě, ale Kana ji měla modrou a bílou."
 
     "Ty rukavice taky předtím na sobě neměla. Kdo jí je dal? Proč je má na sobě? Proč se jí tohle furt děje?"
 
-    "Má tohle něco společného se ztraceným snem co tak urputně hledá? Proč je vůbec v tomhle baráku? Jak se sem dostala?"
+    "Má tohle něco společného se ztraceným snem, co tak urputně hledá? Proč je vůbec v tomhle baráku? Jak se sem dostala?"
 
     "Kana měla hodně ale hodně otázek. Na hodně z nich se však nedalo ani odpovědět. Uvědomila si vlastně, že to ani nemusí být úplně uklízečská uniforma, mohlo by se jednat i o úplně něco jiného."
 
     nvl clear
 
-    "„Jak jsem se sem dostala... ?“ Zeptala se zmateně Kana."
+    "„Jak jsem se sem dostala... ?“ zeptala se zmateně Kana."
 
-    "„Našla jsem tě uprostřed pole, když jsem šla se svým kocourkem na procházku“ usmála se."
+    "„Našla jsem tě uprostřed pole, když jsem šla se svým kocourkem na procházku,“ usmála se."
 
-    "„Vypadala si velmi vyčerpaně a bylo mi tě líto tam nechat, tak jsem tě vzala sebou domů, můžeš si tu udělat pohodlí, už dlouho jsem neměla šanci si povídat s nějakým člověkem, žiju tady jenom já a můj kocour, jinak všude kolem je jenom příroda a nikde v blízkosti žádná vesnice ani město kde by mohli žít lidi.“ usmívala se na ní."
-
-    nvl clear
-
-    "Člověkem? Zamyslela se Kana. Jsem opravdu člověk? Nic si o sobě absolutně nepamatuji, jen svoje jméno. Ale jinak vůbec nic..."
+    "„Vypadala jsi velmi vyčerpaně a bylo mi tě líto tam nechat, tak jsem tě vzala s sebou domů, můžeš si tu udělat pohodlí. Už dlouho jsem neměla šanci si povídat s nějakým člověkem. Žiju tady jenom já a můj kocour, jinak všude kolem je jenom příroda a nikde v blízkosti žádná vesnice ani město, kde by mohli žít lidi.“ usmívala se na ní."
 
     nvl clear
 
-    "„Moje jméno je Ellen, a tohle je Socrates“ ukázala na kočku co měla na svým rameni."
+    "„Člověkem?“ zamyslela se Kana. „Jsem opravdu člověk? Nic si o sobě absolutně nepamatuji, jen svoje jméno. Ale jinak vůbec nic...“"
+
+    nvl clear
+
+    "„Moje jméno je Ellen, a tohle je Socrates,“ ukázala na kočku, co měla na svým rameni."
 
     "„Jakpak se jmenuješ ty?“"
 
-    "„Jmenuju se Kana... Kana Anaberal“ odpověděla."
+    "„Jmenuju se Kana... Kana Anaberal.“ odpověděla."
 
     "„A copak tě sem přívádí, sem lidi moc nechodí.“ zeptala se jí Ellen."
 
     "„Já nevím, já opravdu nevím... Nic si nepamatuju, nevím kdo jsem, odkud jsem sem přišla...“ řekla smutně Kana."
 
-    "Ellen se usmála a pohladila jí po hlavě"
+    "Ellen se usmála a pohladila jí po hlavě."
 
     stop music fadeout(2.0)
 
-    "„To je v pořádku Kaničko, jsem si jistá, že jednou svůj smysl života a své ztracené vzpomínky najdeš. Do té doby můžeš spolu žít a společně najít něco, co nás bude obě dělat šťastnými“ Řekla Ellen."
+    "„To je v pořádku Kaničko. Jsem si jistá, že jednou svůj smysl života a své ztracené vzpomínky najdeš. Do té doby můžeme spolu žít a společně najít něco, co nás bude obě dělat šťastnými,“ řekla Ellen."
 
     nvl clear
 
