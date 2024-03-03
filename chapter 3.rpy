@@ -17,7 +17,7 @@ label chapter3:
 
     scene bg altanek:
         blur 5
-    with curtains
+    with in_curtains
 
     "Byl krásný den. Kana seděla s Ellen v altánku a užívala si krásného vánku."
 
